@@ -1,0 +1,6 @@
+{
+  "name": "GoldLBMA Trade Clone",
+  "description": "A high-fidelity crypto exchange simulation using real-time CoinGecko data. Features spot trading, portfolio management, and real-time charting in a dark-themed professional interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
